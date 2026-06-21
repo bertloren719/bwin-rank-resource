@@ -1,2 +1,14 @@
 # bwin-rank-resource
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
